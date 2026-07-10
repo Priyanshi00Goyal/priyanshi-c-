@@ -10,7 +10,6 @@ Building my future one commit at a time 🚀
 ## 👩‍💻 About Me
 
 ![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge)
-
 ![Second Year](https://img.shields.io/badge/Year-2nd-success?style=for-the-badge)
 🎓 B.Tech Computer Science Engineering Student
 
