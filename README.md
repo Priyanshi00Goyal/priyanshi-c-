@@ -4,12 +4,7 @@
 <p align="center">
 Building my future one commit at a time 🚀
 </p>
----
-<p align="center">
 
-![](https://komarev.com/ghpvc/?username=Priyanshi00goyal&style=for-the-badge&color=ff69b4)
-
-</p>
 ---
 
 ## 👩‍💻 About Me
