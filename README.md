@@ -10,19 +10,20 @@ Building my future one commit at a time 🚀
 ## 👩‍💻 About Me
 
 ![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge)
+
 ![Second Year](https://img.shields.io/badge/Year-2nd-success?style=for-the-badge)
-![Problem Solver](https://img.shields.io/badge/Problem-Solver-orange?style=for-the-badge)
-![Building Projects](https://img.shields.io/badge/Building-Projects-ff69b4?style=for-the-badge)
-![Learning Everyday](https://img.shields.io/badge/Learning-Everyday-yellow?style=for-the-badge)
-![Future AI Engineer](https://img.shields.io/badge/Future-AI%20Engineer-purple?style=for-the-badge)
 🎓 B.Tech Computer Science Engineering Student
 
+![Problem Solver](https://img.shields.io/badge/Problem-Solver-orange?style=for-the-badge)
 💻 Currently learning Data Structures & Algorithms in C++
 
+![Future AI Engineer](https://img.shields.io/badge/Future-AI%20Engineer-purple?style=for-the-badge)
 🌱 Exploring AI & Machine Learning
 
+![Building Projects](https://img.shields.io/badge/Building-Projects-ff69b4?style=for-the-badge)
 📚 Love building projects that solve real-world problems
 
+![Learning Everyday](https://img.shields.io/badge/Learning-Everyday-yellow?style=for-the-badge)
 🎯 Goal: Become a Software Engineer and AI Engineer
 
 ---
