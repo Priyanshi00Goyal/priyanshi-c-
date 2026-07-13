@@ -78,7 +78,7 @@ Building my future one commit at a time 🚀
 
 | Topic | Goal | Solved |
 |-------|------:|-------:|
-| Arrays | 40 | 10 |
+| Arrays | 40 | 12 |
 | Strings | 30 | 0 |
 | Binary Search | 20 | 0 |
 | Linked List | 30 | 0 |
