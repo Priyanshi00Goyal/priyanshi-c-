@@ -108,7 +108,7 @@
 
 | Module | Target | Completed |
 | :--- | :---: | :---: |
-| **Arrays** | 40 | 14 |
+| **Arrays** | 40 | 17 |
 | **Strings** | 30 | 0 |
 | **Binary Search** | 20 | 0 |
 | **Linked List** | 30 | 0 |
