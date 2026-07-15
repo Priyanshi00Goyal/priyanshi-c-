@@ -106,16 +106,39 @@
 
 ## 📈 DSA Progress Tracker
 
-| Module | Target | Completed |
-| :--- | :---: | :---: |
-| **Arrays** | 40 | 17 |
-| **Strings** | 30 | 0 |
-| **Binary Search** | 20 | 0 |
-| **Linked List** | 30 | 0 |
-| **Stack / Queue** | 40 | 0 |
-| **Trees & Graphs** | 75 | 0 |
-| **Dynamic Programming** | 40 | 0 |
-| **Greedy Algorithms** | 25 | 0 |
+C++ Fundamentals      ██████████ 100%
+
+Time Complexity       ██████████ 100%
+
+STL                   ██████████ 100%
+
+Arrays                ██████████ 100%
+
+Two Pointers          ██████████ 100%
+
+Prefix Sum            ██████████ 100%
+
+Bit Manipulation      ███████░░░ 70%
+
+Hashing               ████░░░░░░ 40%
+
+Binary Search         ░░░░░░░░░░ 0%
+
+Strings               ░░░░░░░░░░ 0%
+
+Linked Lists          ░░░░░░░░░░ 0%
+
+Recursion             ░░░░░░░░░░ 0%
+
+Stack                 ░░░░░░░░░░ 0%
+
+Queue                 ░░░░░░░░░░ 0%
+
+Trees                 ░░░░░░░░░░ 0%
+
+Graphs                ░░░░░░░░░░ 0%
+
+Dynamic Programming   ░░░░░░░░░░ 0%
 
 ---
 
