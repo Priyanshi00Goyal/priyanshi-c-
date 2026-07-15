@@ -81,21 +81,44 @@
   <tr>
     <td width="50%" align="left">
       🚀 <b>Study Planner</b><br/>
-      <p>An intelligent management terminal crafted in C++ to optimize study routines.</p>
+      <p>An intelligent C++ console application designed to organize study schedules and boost productivity.</p>
     </td>
     <td width="50%" align="left">
       ⚔️ <b>DSA Vault</b><br/>
-      <p>Clean, production-grade solutions to core Data Structures and Algorithms challenges.</p>
+      <p>A curated collection of clean and optimized Data Structures & Algorithms solutions in C++.</p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" align="left">
-      🐍 <b>Python Automations</b><br/>
-      <p>A repository of mini utilities built to automate repetitive daily developer tasks.</p>
+      💰 <b>Smart Expense Tracker</b><br/>
+      <p>A C++ expense management system for tracking, organizing, and analyzing personal finances.</p>
     </td>
     <td width="50%" align="left">
-      💰 <b>Smart Expense Tracker</b><br/>
-      <p>A C++ console application for recording and analyzing personal financial transactions.</p>
+      🧮 <b>Python Calculator</b><br/>
+      <p>A command-line calculator built with Python featuring arithmetic operations, input validation, and modular design.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="left">
+      🎯 <b>Number Guessing Game</b><br/>
+      <p>A Python CLI game with multiple difficulty levels, score tracking, and limited attempts.</p>
+    </td>
+    <td width="50%" align="left">
+      🔐 <b>Password Generator</b><br/>
+      <p>A secure Python application that generates customizable strong passwords using randomization.</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="left">
+      ✊ <b>Rock Paper Scissors</b><br/>
+      <p>A Python game featuring computer AI, Best of 3/5/7 match modes, and live score tracking.</p>
+    </td>
+    <td width="50%" align="left">
+      🤍 <b>Attached RESUME</b><br/>
+      <p>An interactive and fully active resume is attached for interactions and offers.</p>
     </td>
   </tr>
 </table>
